@@ -1,0 +1,14 @@
+.superhero-wrapper {
+  border: 2px solid wheat;
+  background-color: blanchedalmond;
+  box-sizing: border-box;
+  border-radius: 15ps;
+  width: 45%;
+  margin: 15px;
+  padding: 15px;
+  text-align: center;
+}
+
+.imgHero {
+  width: 95%;
+}
